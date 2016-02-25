@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Global China Connection</title>
+    <link>http://gccnus.org/gallery/</link>
+    <description>Recent content in Galleries on Global China Connection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Yuri Jhou</copyright>
+    <lastBuildDate>Wed, 24 Feb 2016 16:22:59 +0800</lastBuildDate>
+    <atom:link href="http://gccnus.org/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>second gallery</title>
+      <link>http://gccnus.org/gallery/second-gallery/</link>
+      <pubDate>Wed, 24 Feb 2016 16:22:59 +0800</pubDate>
+      
+      <guid>http://gccnus.org/gallery/second-gallery/</guid>
+      <description>&lt;p&gt;This is the second gallery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first gallery</title>
+      <link>http://gccnus.org/gallery/first-gallery/</link>
+      <pubDate>Wed, 24 Feb 2016 16:21:59 +0800</pubDate>
+      
+      <guid>http://gccnus.org/gallery/first-gallery/</guid>
+      <description>&lt;p&gt;This is the first gallery.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
