@@ -32,21 +32,26 @@ googleAnalytics = "XXX"
     weight = 1
 
 [[menu.main]]
-    name = "Projects"
-    url = "/project/"
+    name = "About"
+    url = "/page/about/"
     weight = 2
 
 [[menu.main]]
-    name = "Contact"
-    url = "/page/contact/"
+    name = "Collaboration"
+    url = "/page/collaboration/"
     weight = 3
 
 [[menu.main]]
-    name = "About"
-    url = "/page/about/"
+    name = "Membership"
+    url = "/page/membership/"
     weight = 4
 
 [[menu.main]]
-		name = "Gallery"
-		url="/gallery/"
+		name = "Events"
+		url="/post/"
 		weight = 5
+
+[[menu.main]]
+        name = "Contact"
+        url="/page/contact/"
+        weight = 6
